@@ -1,0 +1,19 @@
+.vertical-center {
+    min-height: 100%;
+    min-height: 90vh;
+
+    display: flex;
+    align-items: center;
+}
+
+#head-title {
+    margin-top: 20px;
+    text-align: center;
+    color: oldlace;
+
+}
+
+#watch-episode-text {
+    margin-bottom: 20px;
+    color: oldlace;
+}
